@@ -1,5 +1,5 @@
 # hello-world
 
-##Wasting my time
+## Wasting my time
 
-###I'm making changes to a branch
+### I'm making changes to a branch
