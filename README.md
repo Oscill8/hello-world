@@ -1,6 +1,6 @@
 # hello-world
 
-## Wasting my time
+## text rules
 
 ### I'm making changes to a branch
 
